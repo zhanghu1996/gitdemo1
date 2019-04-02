@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Student implements Serializable {
      private Integer stuid;
      private String stuname;
-     private String class;
+     private String stuAge;
      public Integer getStuid() {
           return stuid;
      }
